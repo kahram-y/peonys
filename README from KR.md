@@ -23,5 +23,5 @@
 # 회고(참고 링크 및 코드 개선)
 ```
 # 참고 링크
-    https://teamtreehouse.com/community/getword01  :  .get(word,0)+1에서 get은 딕셔너리 내에서 word의 빈도수를 알려주고, +1은 value가 None으로 나왔을 때 1을 더해줌
+   
 ```
